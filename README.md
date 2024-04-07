@@ -1,4 +1,4 @@
-# My First Dashboard
-This is my first git repository. 
+# My First project
+This is my first data analytics project. 
 <BR>
-Author - Kartik
+By Forage job simulation
